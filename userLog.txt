@@ -1,0 +1,4 @@
+El usuario ingresó a la página /favicon.ico
+El usuario ingresó a la página /login
+El usuario ingresó a la página /admin?
+El usuario ingresó a la página /admin?user=Ada
